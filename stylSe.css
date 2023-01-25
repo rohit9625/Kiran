@@ -16,18 +16,18 @@ p{
     border: solid 2px black;
 }
 nav,a {
-    background-color: black;
+    background-color: rgb(190, 98, 98);
     font-weight: bold;
     text-align: center;
     border: solid;
     padding: 20px;
-    background: size 2px;;
+    background: size 1px;
     color: white;
    
     
 }
 nav a:hover{
-    color: aqua;
+    color: rgb(143, 14, 14);
 
 };
 
