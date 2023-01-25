@@ -1,0 +1,48 @@
+h1{
+    padding: 10px;
+    color:black;
+    background-image: url(KIRAN\ BACK\ 2.jpg);
+background-repeat: no-repeat;
+   background-size: cover;
+    
+font-size: 600%;
+font-family: cursive;
+text-align:center;
+}
+p{
+    color:black;
+    text-align:center;   
+    font-weight: bolder;
+    border: solid 2px black;
+}
+nav,a {
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+    border: solid;
+    padding: 20px;
+    background: size 2px;;
+    color: white;
+   
+    
+}
+nav a:hover{
+    color: aqua;
+
+};
+
+
+h3{
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    
+}
+div{
+    background-color: aqua;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+
